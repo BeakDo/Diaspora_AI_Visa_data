@@ -1714,15 +1714,15 @@
       "region": "asia",
       "popularFor": [],
       "visa": {
-        "required": true,
-        "policy": "visa_required",
-        "type": "Tourist/Business Visa",
-        "freeDays": null,
-        "maxStay": null,
-        "evisa": false,
+        "required": false,
+        "policy": "visa_free",
+        "type": "Visa-free entry",
+        "freeDays": 30,
+        "maxStay": 30,
+        "evisa": true,
         "onArrival": false,
-        "multipleEntry": true,
-        "notes": "Visa required for United Kingdom citizens. Apply at the China embassy/consulate or authorized visa center."
+        "multipleEntry": false,
+        "notes": "Until 31 December 2026, British citizens can enter China visa-free for up to 30 days for business, tourism, family/friend visits or transit. For work, long-term stays, journalism, or study, a visa must be obtained in advance from a Chinese Embassy/Visa Centre. Visa-free transit options available for up to 10 days depending on travel plans."
       },
       "documents": {
         "passport": {
@@ -1737,13 +1737,13 @@
             "recommended": true,
             "mandatory": false
           },
-          "yellowFeverCertificate": false
+          "yellowFeverCertificate": "required_from_risk_countries"
         },
-        "notes": null
+        "notes": "Yellow fever certificate required if arriving from a country with risk of yellow fever transmission. Must register with local Public Security Bureau within 24 hours of arrival."
       },
       "transit": {
-        "visaRequired": null,
-        "notes": "Check specific transit requirements with your airline."
+        "visaRequired": false,
+        "notes": "Visa-free transit available for up to 10 days depending on entry/exit points. Hainan island allows visa-free entry if flying directly from approved countries."
       },
       "meta": {
         "riskLevel": "medium",
