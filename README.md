@@ -207,7 +207,7 @@ All data follows a strict schema. See [SCHEMA.md](SCHEMA.md) for full documentat
 <!-- LEADERBOARD:START -->
 | Rank | Contributor | Contributions | Countries |
 |------|-------------|---------------|-----------|
-| 🥇 | *Be the first!* | - | - |
+| 🥇 | angeloasante | 3 | 128 |
 <!-- LEADERBOARD:END -->
 
 ---
