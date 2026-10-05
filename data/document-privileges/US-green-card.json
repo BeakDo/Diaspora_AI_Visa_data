@@ -1,0 +1,31 @@
+{
+  "document": {
+    "type": "green_card",
+    "country": "US",
+    "countryName": "United States",
+    "description": "US permanent residence document privileges verified against destination government sources"
+  },
+  "lastUpdated": "2026-10-06",
+  "totalUnlocked": 1,
+  "unlocks": [
+    {
+      "country": "MX",
+      "countryName": "Mexico",
+      "region": "north_america",
+      "conditions": "Document proving permanent residence in the United States; visit for tourism, business or other activities without remuneration in Mexico",
+      "maxStayDays": 180,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "additionalRequirements": "Valid passport or identity and travel document. Present proof of US permanent residence. Immigration authorities may request the purpose of travel, itinerary, accommodation, funds and return or onward travel evidence.",
+      "source": {
+        "url": "https://www.inm.gob.mx/gobmx/word/index.php/paises-requieren-visa-para-mexico/",
+        "governmentDomain": true,
+        "accessedDate": "2026-10-06",
+        "verificationPath": "INM > Paises y regiones que requieren visa para viajar a Mexico > alternative documents > item a) permanent residence",
+        "exactQuote": "Documento que acredite residencia permanente en Canadá, Estados Unidos de América",
+        "confidence": "verified"
+      },
+      "notes": "Visa exemption for visitors without permission to perform remunerated activities. The INM page states a maximum of 180 days; the authorized stay and admission are determined by the immigration authority. This entry concerns permanent residence, separately from the valid-visa exemption in item b)."
+    }
+  ]
+}
