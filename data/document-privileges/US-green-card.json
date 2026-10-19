@@ -108,17 +108,20 @@
       "maxStayDays": 30,
       "visaOnArrival": false,
       "evisaRequired": false,
-      "additionalRequirements": "Present the passport and valid US permanent resident card. Observe both the 30-day continuous-stay limit and the rolling 90-days-in-180 total.",
+      "additionalRequirements": "Present a valid US permanent resident card and a passport issued within the past ten years, valid at least three months beyond intended departure. Observe the 30-day continuous-stay limit and the rolling 90-days-in-180 total.",
       "source": {
-        "url": "https://fipa.vijeceministara.gov.ba/en/visasinformation-for-visitors",
+        "url": "https://msb.gov.ba/en/information-for-foreigners",
         "governmentDomain": true,
-        "accessedDate": "2026-10-06",
-        "verificationPath": "Foreign Investment Promotion Agency of Bosnia and Herzegovina > Information for investors > Working and Living in B&H > Visas/Information for visitors > Note 2",
-        "exactQuote": "a residence permit issued by the Schengen Agreement signatory states, the member states of the European Union or the United States of America.",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "locationUrl": "https://fipa.vijeceministara.gov.ba/en/visasinformation-for-visitors#:~:text=a%20residence%20permit%20issued%20by%20the%20Schengen%20Agreement%20signatory%20states%2C%20the%20member%20states%20of%20the%20European%20Union%20or%20the%20United%20States%20of%20America."
+        "authority": "Ministry of Security of Bosnia and Herzegovina",
+        "verificationPath": "Ministry of Security > Informations for Foreigners > Basic information on entry and stay of aliens > Visa-free regime in the case of possession of a multiple-entry Schengen visa or residence permit in the Schengen or EU countries > two paragraphs on US residence and stay limits",
+        "exactQuote": "residence permit issued in the Schengen, EU countries, or in the United States of America.",
+        "supportingQuote": "no longer than 30 days",
+        "locationUrl": "https://msb.gov.ba/en/information-for-foreigners#:~:text=residence%20permit%20issued%20in%20the%20Schengen"
       },
-      "notes": "maxStayDays represents one continuous stay. Note 2 also imposes an aggregate maximum of 90 days in any 180-day period. The residence permit must remain valid throughout the stay."
+      "notes": "maxStayDays represents one continuous stay. The Ministry of Security also sets an aggregate maximum of 90 days in any 180-day period, within the residence permit’s validity.",
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "BZ",
@@ -503,7 +506,7 @@
       "maxStayDays": 30,
       "visaOnArrival": false,
       "evisaRequired": true,
-      "additionalRequirements": "Tourism/business travel; valid US Green Card, return ticket, hotel reservation and USD 50 per day. Apply through the official eVisa service; comply with nationality-specific age and airline conditions. The consulate describes eVisa entry through airports.",
+      "additionalRequirements": "Tourism/business travel; valid US Green Card, return ticket, hotel reservation and USD 50 per day. Apply through the official eVisa service. Egyptian ordinary-passport holders aged 15-45 using the residence-permit route must travel with Turkish Airlines, AJet, Pegasus, Egypt Air or Air Cairo. The Los Angeles consulate describes eVisa entry through airports.",
       "source": {
         "url": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
         "governmentDomain": true,
@@ -728,23 +731,23 @@
       ],
       "additionalRequirements": "The periods cover one continuous stay or successive visits. The separate foreign-visa route requires six months validity; Article1(b) permanent residence has its own eligibility branch.",
       "source": {
-        "url": "https://busquedas.elperuano.pe/api/archivo/file/1Zoj6r2zan2AE3Ut2ZAzBM/*/1493143-11.pdf#page=1",
+        "url": "https://busquedas.elperuano.pe/dispositivo/NL/1493143-11",
         "governmentDomain": true,
-        "accessedDate": "2026-10-07",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "El Peruano > Decreto Supremo 006-2017-RE > Article 1(b), PDF page 1 (printed page 9, bottom right); Article 2, PDF page 2 (printed page 10, top left)",
-        "locationUrl": "https://busquedas.elperuano.pe/api/archivo/file/1Zoj6r2zan2AE3Ut2ZAzBM/*/1493143-11.pdf#page=1",
+        "verificationPath": "El Peruano > Decreto Supremo 006-2017-RE, published 6 March 2017 > PDF viewer > page 1 (printed page 9), Article 1(b), bottom right > page 2 (printed page 10), Article 2, top left. Use the viewer page navigator to select page 2.",
+        "locationUrl": "https://busquedas.elperuano.pe/dispositivo/NL/1493143-11",
         "exactQuote": "Tener residencia permanente en los Estados Unidos de América",
         "supportingQuote": "durante el plazo de un año."
       },
       "additionalSources": [
         {
-          "url": "https://busquedas.elperuano.pe/api/archivo/file/5hUC4uHm4fYAm4UeXByBwE/*/1423003-3.pdf#page=2",
+          "url": "https://busquedas.elperuano.pe/dispositivo/NL/1423003-3/pdf",
           "governmentDomain": true,
-          "accessedDate": "2026-10-07",
+          "accessedDate": "2026-10-20",
           "confidence": "verified",
-          "verificationPath": "El Peruano > Decreto Supremo 069-2016-RE > Articles 1(b) and 2, PDF page 2 (printed page 598002, left column)",
-          "locationUrl": "https://busquedas.elperuano.pe/api/archivo/file/5hUC4uHm4fYAm4UeXByBwE/*/1423003-3.pdf#page=2",
+          "verificationPath": "El Peruano > Decreto Supremo 069-2016-RE, published 1 September 2016 > PDF view > page 2 (printed page 598002) > Article 1(b) and Article 2, left column. From the HTML view, select PDF.",
+          "locationUrl": "https://busquedas.elperuano.pe/dispositivo/NL/1423003-3/pdf",
           "exactQuote": "Tener residencia permanente en los Estados Unidos de América",
           "supportingQuote": "durante el plazo de seis (6) meses."
         }
