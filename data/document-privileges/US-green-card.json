@@ -78,15 +78,27 @@
       "evisaRequired": false,
       "additionalRequirements": "Present a valid passport and the valid US permanent resident card. The Albanian embassy lists a valid US residence permit as a separate qualifying document; prior use is a condition attached to the US visa route.",
       "source": {
-        "url": "https://punetejashtme.gov.al/en/aplikim-per-vize/",
+        "url": "https://ambasadat.gov.al/france/en/embassy-services/",
         "governmentDomain": true,
-        "accessedDate": "2026-10-06",
-        "verificationPath": "Ministry for Europe and Foreign Affairs > VISA APPLICATION > visa-exemption table, item 2; Description gives the 90-days-in-180 short-stay period",
-        "exactQuote": "a valid residence permit issued by the United States of America",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "locationUrl": "https://punetejashtme.gov.al/en/aplikim-per-vize/#:~:text=a%20valid%20residence%20permit%20issued%20by%20the%20United%20States%20of%20America"
+        "exactQuote": "You have a valid residence permit in the United States or the United Kingdom.",
+        "verificationPath": "Albanian Embassy in France > Embassy Services > Visas > You do not need a visa if > US/UK residence-permit bullet",
+        "locationUrl": "https://ambasadat.gov.al/france/en/embassy-services/#:~:text=You%20have%20a%20valid%20residence%20permit%20in%20the%20United%20States%20or%20the%20United%20Kingdom."
       },
-      "notes": "The 90-day allowance is counted within a 180-day period. The Albanian embassy in France separately confirms eligibility for a valid US residence permit: https://ambasadat.gov.al/france/en/embassy-services/ . This entry uses US permanent-residence status; US citizenship has its own rules."
+      "notes": "The embassy lists a valid US residence permit as a qualifying document. The MFA page supplies the 90-days-in-180 short-stay limit.",
+      "additionalSources": [
+        {
+          "url": "https://punetejashtme.gov.al/en/aplikim-per-vize/",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "verificationPath": "Albanian Ministry for Europe and Foreign Affairs > VISA APPLICATION > Description > Visa Type C (90 days in 180); exemption table > item 2 (US residence permits)",
+          "exactQuote": "maximum period of 90 days out of a 180-day period",
+          "confidence": "verified",
+          "locationUrl": "https://punetejashtme.gov.al/en/aplikim-per-vize/#:~:text=maximum%20period%20of%2090%20days%20out%20of%20a%20180-day%20period"
+        }
+      ],
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "BA",
@@ -141,12 +153,24 @@
         "url": "https://usa.mirex.gob.do/preguntas-frecuentes/",
         "governmentDomain": true,
         "accessedDate": "2026-10-06",
-        "verificationPath": "Dominican Embassy in the United States > Preguntas frecuentes > questions 7-11",
+        "verificationPath": "Dominican Embassy in the United States > Preguntas frecuentes > question 11 > listed US visas and residence documents",
         "exactQuote": "Los titulares de visas o residencias válidas de estos países pueden ingresar sin necesidad de visa adicional.",
         "confidence": "verified",
         "locationUrl": "https://usa.mirex.gob.do/preguntas-frecuentes/#:~:text=Los%20titulares%20de%20visas%20o%20residencias%20v%C3%A1lidas%20de%20estos%20pa%C3%ADses%20pueden%20ingresar%20sin%20necesidad%20de%20visa%20adicional."
       },
-      "notes": "Question 11 identifies US visas/residence as qualifying documents. Question 9 covers extensions beyond 30 days; e-Ticket is the migration form. The passport concession ending in November 2025 has expired."
+      "notes": "The embassy FAQ supplies the US-residence visa exemption. The Dirección General de Migración tourist-extension service supplies the initial 30-day stay; extensions follow its application procedure.",
+      "additionalSources": [
+        {
+          "url": "https://migracion.gob.do/servicio/prorroga-de-estadia/",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "exactQuote": "los 30 días establecidos para los turistas",
+          "verificationPath": "Dirección General de Migración > Servicios > PRÓRROGA DE ESTADÍA PARA TURISTAS > A quién va dirigido > opening paragraph (standard 30-day tourist stay)",
+          "locationUrl": "https://migracion.gob.do/servicio/prorroga-de-estadia/#:~:text=los%2030%20d%C3%ADas%20establecidos%20para%20los%20turistas"
+        }
+      ],
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "CR",
@@ -201,10 +225,15 @@
       "supportingSources": [
         {
           "url": "https://switzerland.mfa.gov.ge/en/news/370174-saqartveloshi-mogzaurobis-msurvelta-sakuradghebod",
-          "accessedDate": "2026-10-06",
-          "verificationPath": "Georgian Embassy > Mandatory Insurance > coverage amount, language, full stay"
+          "accessedDate": "2026-10-20",
+          "verificationPath": "Georgian Embassy in Switzerland > Media Center > News > Information Regarding Mandatory Insurance for Tourists Entering Georgia (15 January 2026) > opening paragraphs and full-period-of-stay paragraph",
+          "exactQuote": "the insurance coverage amount must be no less than 30 000 GEL.",
+          "locationUrl": "https://switzerland.mfa.gov.ge/en/news/370174-saqartveloshi-mogzaurobis-msurvelta-sakuradghebod#:~:text=the%20insurance%20coverage%20amount%20must%20be%20no%20less%20than%2030%20000%20GEL.",
+          "governmentDomain": true,
+          "confidence": "verified"
         }
-      ]
+      ],
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "AM",
@@ -433,11 +462,17 @@
           },
           "source": {
             "url": "https://icp.gov.ae/en/services-details/?serviceid=68f5bcdb8c587a0011cb16d5",
-            "accessedDate": "2026-10-06",
-            "verificationPath": "ICP > service details > eligible groups, 60-day stay, entry deadline, fees and requirements"
+            "accessedDate": "2026-10-20",
+            "verificationPath": "ICP > Issuance of a 60-day visa for nationals of certain countries residing Abroad > Terms and Conditions (eligible groups, passport, 30-day entry validity, 60-day stay) > Service fees > List of Required Documents for Service",
+            "exactQuote": "A copy of the visa/residence permit./Green Card",
+            "supportingQuote": "duration of stay within the United Arab Emirates is (60) days",
+            "locationUrl": "https://icp.gov.ae/en/services-details/?serviceid=68f5bcdb8c587a0011cb16d5#:~:text=A%20copy%20of%20the%20visa%2Fresidence%20permit.%2FGreen%20Card",
+            "governmentDomain": true,
+            "confidence": "verified"
           }
         }
-      ]
+      ],
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "BS",
@@ -490,8 +525,12 @@
       "supportingSources": [
         {
           "url": "https://losangeles-bk.mfa.gov.tr/Mission/ShowInfoNote/411459",
-          "accessedDate": "2026-10-06",
-          "verificationPath": "Turkish Consulate Los Angeles > eVisa > valid Green Card, airport entry, return ticket, hotel and USD 50/day"
+          "accessedDate": "2026-10-20",
+          "verificationPath": "Turkish Consulate General in Los Angeles > Info Notes > e-Visa Applications (18 January 2025) > four eligibility bullets > paragraph on recognized supporting documents",
+          "exactQuote": "a valid sticker US/Schengen/Ireland visas or Green Cards",
+          "locationUrl": "https://losangeles-bk.mfa.gov.tr/Mission/ShowInfoNote/411459#:~:text=a%20valid%20sticker%20US%2FSchengen%2FIreland%20visas%20or%20Green%20Cards",
+          "governmentDomain": true,
+          "confidence": "verified"
         }
       ],
       "nationalityOverrides": {
@@ -507,7 +546,8 @@
           ],
           "notes": "The residence-document condition covers this age group. The source permits eVisa without this additional condition for Egyptians under15 or above45."
         }
-      }
+      },
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "OM",
@@ -589,10 +629,16 @@
       "supportingSources": [
         {
           "url": "https://portal.migracioncolombia.gov.co/fileadmin/user_upload/participa/base-de-conocimiento-v47.pdf",
-          "accessedDate": "2026-10-06",
-          "verificationPath": "Migracion Colombia > knowledge base v47 > page 92 (PDF page index 91), PIP 90 days plus extension, 180/calendar year"
+          "accessedDate": "2026-10-20",
+          "verificationPath": "Migración Colombia > Base del conocimiento, version 47 (August 2025) > PDF page 92, question 154 > duration paragraph immediately before question 155",
+          "exactQuote": "El permiso es otorgado hasta por 90 días calendario",
+          "supportingQuote": "180 días por año calendario",
+          "locationUrl": "https://portal.migracioncolombia.gov.co/fileadmin/user_upload/participa/base-de-conocimiento-v47.pdf#page=92",
+          "governmentDomain": true,
+          "confidence": "verified"
         }
-      ]
+      ],
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "CA",
@@ -608,22 +654,25 @@
       "source": {
         "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
         "governmentDomain": true,
-        "accessedDate": "2026-10-07",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "US travellers > US lawful permanent residents; acceptable proof of status",
-        "locationUrl": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#:~:text=a%20valid%20permanent%20resident%20(green)%20card"
+        "verificationPath": "Canada.ca > Immigration and citizenship > Visit Canada > What you need to enter Canada > US travellers > US lawful permanent residents > Entering Canada by air; Entering Canada by land or water; Acceptable proof of status",
+        "locationUrl": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#:~:text=a%20valid%20permanent%20resident%20(green)%20card",
+        "exactQuote": "a valid permanent resident (green) card"
       },
       "additionalSources": [
         {
           "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/eligibility.html",
           "governmentDomain": true,
-          "accessedDate": "2026-10-07",
+          "accessedDate": "2026-10-20",
           "confidence": "verified",
-          "verificationPath": "When to apply > expiry date for status, passport stamp",
-          "locationUrl": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/eligibility.html#:~:text=If%20you%20don%E2%80%99t%20have%20a%20stamp%20in%20your%20passport%2C%20the%20expiry%20date%20is%206%20months%20from%20the%20day%20you%20entered%20Canada."
+          "verificationPath": "Canada.ca > Extend your stay in Canada > Who can apply > When to apply > passport stamp > unstamped-passport expiry",
+          "locationUrl": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/eligibility.html#:~:text=If%20you%20don%E2%80%99t%20have%20a%20stamp%20in%20your%20passport%2C%20the%20expiry%20date%20is%206%C2%A0months%20from%20the%20day%20you%20entered%20Canada.",
+          "exactQuote": "If you don’t have a stamp in your passport, the expiry date is 6 months from the day you entered Canada."
         }
       ],
-      "notes": "Default stay is six calendar months when no different period is specified by the border officer or visitor record."
+      "notes": "Default stay is six calendar months when no different period is specified by the border officer or visitor record.",
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "CL",
@@ -641,11 +690,14 @@
       "source": {
         "url": "https://www.chile.gob.cl/nueva-delhi/visas/visas",
         "governmentDomain": true,
-        "accessedDate": "2026-10-07",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "Antes de postular a visado chileno recuerda que > first bullet",
-        "locationUrl": "https://www.chile.gob.cl/nueva-delhi/visas/visas#:~:text=incluyendo%20Green%20Card"
-      }
+        "verificationPath": "Chilean Consular Section in New Delhi > Visas > Antes de postular a visado chileno recuerda que > first bullet (Indian citizens; Green Card; six-month validity; 90-day stay)",
+        "locationUrl": "https://www.chile.gob.cl/nueva-delhi/visas/visas#:~:text=titulares%20de%20un%20visado%20estadounidense%20de%20cualquier%20tipo%20(incluyendo%20Green%20Card)",
+        "exactQuote": "titulares de un visado estadounidense de cualquier tipo (incluyendo Green Card)",
+        "supportingQuote": "El período máximo de estancia es de 90 días."
+      },
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "PE",
@@ -680,8 +732,10 @@
         "governmentDomain": true,
         "accessedDate": "2026-10-07",
         "confidence": "verified",
-        "verificationPath": "DS 006-2017-RE > Article1(b), PDFpage1 / printedpage9; Article2 PDFpage2 / printedpage10",
-        "locationUrl": "https://busquedas.elperuano.pe/api/archivo/file/1Zoj6r2zan2AE3Ut2ZAzBM/*/1493143-11.pdf#page=1"
+        "verificationPath": "El Peruano > Decreto Supremo 006-2017-RE > Article 1(b), PDF page 1 (printed page 9, bottom right); Article 2, PDF page 2 (printed page 10, top left)",
+        "locationUrl": "https://busquedas.elperuano.pe/api/archivo/file/1Zoj6r2zan2AE3Ut2ZAzBM/*/1493143-11.pdf#page=1",
+        "exactQuote": "Tener residencia permanente en los Estados Unidos de América",
+        "supportingQuote": "durante el plazo de un año."
       },
       "additionalSources": [
         {
@@ -689,10 +743,13 @@
           "governmentDomain": true,
           "accessedDate": "2026-10-07",
           "confidence": "verified",
-          "verificationPath": "DS 069-2016-RE > Article1(b) and Article2, PDFpage2 / printedpage598002",
-          "locationUrl": "https://busquedas.elperuano.pe/api/archivo/file/5hUC4uHm4fYAm4UeXByBwE/*/1423003-3.pdf#page=2"
+          "verificationPath": "El Peruano > Decreto Supremo 069-2016-RE > Articles 1(b) and 2, PDF page 2 (printed page 598002, left column)",
+          "locationUrl": "https://busquedas.elperuano.pe/api/archivo/file/5hUC4uHm4fYAm4UeXByBwE/*/1423003-3.pdf#page=2",
+          "exactQuote": "Tener residencia permanente en los Estados Unidos de América",
+          "supportingQuote": "durante el plazo de seis (6) meses."
         }
-      ]
+      ],
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "TW",
@@ -719,34 +776,41 @@
       "source": {
         "url": "https://niaspeedy.immigration.gov.tw/nia_southeast/",
         "governmentDomain": true,
-        "accessedDate": "2026-10-07",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "Select English > Next > Next > Basic requirements; Special requirements1; Notes",
-        "locationUrl": "https://niaspeedy.immigration.gov.tw/nia_southeast/#:~:text=A%20valid%20resident%20or%20permanent%20resident%20certificate"
+        "verificationPath": "National Immigration Agency TAC portal > select English > 下一步/Next > 下一步 / Next > Special requirements > item 1 > first document bullet. Basic requirements and Notes give passport, ticket, stay and entry-count conditions.",
+        "locationUrl": "https://niaspeedy.immigration.gov.tw/nia_southeast/#:~:text=A%20valid%20resident%20or%20permanent%20resident%20certificate",
+        "exactQuote": "A valid resident or permanent resident certificate",
+        "supportingQuote": "may stay in Taiwan for 14 days, starting from the next day of arrival."
       },
       "extendible": false,
-      "notes": "Apply online for TAC and print the approval. The certificate is valid for 90 days; each stay is 14 days from the day following arrival. Up to six TAC entries per calendar year."
+      "notes": "Apply online for TAC and print the approval. The certificate is valid for 90 days; each stay is 14 days from the day following arrival. Up to six TAC entries per calendar year.",
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "SA",
       "countryName": "Saudi Arabia",
       "region": "middle_east",
       "accessType": "visa_on_arrival",
-      "conditions": "US permanent residents qualify for a Saudi tourist visa on arrival under the current official tourism FAQ.",
+      "conditions": "US permanent residents qualify for a Saudi tourist visa on arrival.",
       "maxStayDays": 90,
       "visaOnArrival": true,
       "evisaRequired": false,
       "visaValidityYears": 1,
       "multipleEntry": true,
       "source": {
-        "url": "https://www.visitsaudi.com/visa",
+        "url": "https://www.visitsaudi.com/en/plan-your-trip/visa-regulations",
         "governmentDomain": true,
-        "accessedDate": "2026-10-07",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "FAQ > permanent residency permit from UK/US/EU; duration of stay for tourist visa",
-        "locationUrl": "https://www.visitsaudi.com/visa#:~:text=Yes%2C%20U.K%2C%20U.S.%20and%20EU%20permanent%20residents%20are%20eligible%20for%20Saudi%20tourist%20visa%20on%20arrival."
+        "verificationPath": "Visit Saudi > Plan Your Trip > Saudi Arabia Visa Requirements > Frequently Asked Questions > expand \"I have a permanent residency permit from the UK, US, or the EU. Can I apply for a visa on arrival?\" > expand \"What is the duration of stay for the tourist visa?\". The answers load in the browser after each question is opened.",
+        "locationUrl": "https://www.visitsaudi.com/en/plan-your-trip/visa-regulations#:~:text=U.K%2C%20U.S.%20and%20EU%20permanent%20residents%20are%20eligible%20for%20Saudi%20tourist%20visa%20on%20arrival.",
+        "authority": "Saudi Tourism Authority, Visit Saudi",
+        "exactQuote": "U.K, U.S. and EU permanent residents are eligible for Saudi tourist visa on arrival.",
+        "supportingQuote": "permits 90 days period of stay."
       },
-      "notes": "The official FAQ describes a one-year multiple-entry tourist visa with a 90-day stay allowance. Confirm the issued visa conditions for the specific visit."
+      "notes": "The Saudi Tourism Authority FAQ confirms a one-year multiple-entry tourist visa and a 90-day stay allowance. The issued visa specifies the admission conditions.",
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "AG",
@@ -765,21 +829,26 @@
       "source": {
         "url": "https://cip.gov.ag/faq/",
         "governmentDomain": true,
-        "accessedDate": "2026-10-07",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "Do you offer a Visa on Arrival (VOA) service?",
-        "locationUrl": "https://cip.gov.ag/faq/#:~:text=USA%20Visa%20or%20%E2%80%98Green%20Card%E2%80%99"
+        "verificationPath": "Antigua and Barbuda Citizenship by Investment Unit > FAQ > click \"Do you offer a Visa on Arrival (VOA) service?\" > introductory paragraph and first document bullet",
+        "locationUrl": "https://cip.gov.ag/faq/#:~:text=USA%20Visa%20or%20%E2%80%98Green%20Card%E2%80%99",
+        "exactQuote": "USA Visa or ‘Green Card’",
+        "supportingQuote": "at a cost of US$ 100 valid for 30 days."
       },
       "additionalSources": [
         {
           "url": "https://www.abconsulate.nyc/applying-for-a-visa",
           "governmentDomain": true,
-          "accessedDate": "2026-10-07",
+          "accessedDate": "2026-10-20",
           "confidence": "verified",
-          "verificationPath": "VISA ON ARRIVAL (VOA)",
-          "locationUrl": "https://www.abconsulate.nyc/applying-for-a-visa#:~:text=current%20US%20visa%20or%20US%20Permanent%20Resident%20Card"
+          "verificationPath": "Consulate General of Antigua and Barbuda in New York > General Services > Applying for a Visa > VISA ON ARRIVAL (VOA) > supporting-document validity and US$100 fee",
+          "locationUrl": "https://www.abconsulate.nyc/applying-for-a-visa#:~:text=current%20US%20visa%20or%20US%20Permanent%20Resident%20Card",
+          "exactQuote": "current US visa or US Permanent Resident Card",
+          "supportingQuote": "valid for a minimum of six months"
         }
-      ]
+      ],
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "AW",
@@ -795,22 +864,25 @@
       "source": {
         "url": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean",
         "governmentDomain": true,
-        "accessedDate": "2026-10-07",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "You hold a valid visa or residence permit > United States or Canada",
-        "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean#:~:text=If%20you%20hold%20a%20residence%20permit%20for%20the%20United%20States%20or%20Canada%2C%20you%20do%20not%20need%20a%20Caribbean%20visa."
+        "verificationPath": "NetherlandsWorldwide > Visa for the Caribbean parts of the Kingdom > Do I need a visa? > You hold a valid visa or residence permit for certain other countries > United States or Canada > first paragraph",
+        "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean#:~:text=permit%20for%20the%20United%20States",
+        "exactQuote": "permit for the United States"
       },
       "additionalSources": [
         {
           "url": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa",
           "governmentDomain": true,
-          "accessedDate": "2026-10-07",
+          "accessedDate": "2026-10-20",
           "confidence": "verified",
-          "verificationPath": "Maximum length of stay; Entry requirements",
-          "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa#:~:text=a%20maximum%20of%2090%20days%20in%20any%20180-day%20period"
+          "verificationPath": "NetherlandsWorldwide > Visa for the Caribbean parts of the Kingdom > Requirements for travelling without a visa > Maximum length of stay > opening paragraph; Entry requirements",
+          "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa#:~:text=90%20days%20in%20any%20180-day%20period",
+          "exactQuote": "90 days in any 180-day period"
         }
       ],
-      "destinationType": "territory"
+      "destinationType": "territory",
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "CW",
@@ -826,22 +898,25 @@
       "source": {
         "url": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean",
         "governmentDomain": true,
-        "accessedDate": "2026-10-07",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "You hold a valid visa or residence permit > United States or Canada",
-        "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean#:~:text=If%20you%20hold%20a%20residence%20permit%20for%20the%20United%20States%20or%20Canada%2C%20you%20do%20not%20need%20a%20Caribbean%20visa."
+        "verificationPath": "NetherlandsWorldwide > Visa for the Caribbean parts of the Kingdom > Do I need a visa? > You hold a valid visa or residence permit for certain other countries > United States or Canada > first paragraph",
+        "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean#:~:text=permit%20for%20the%20United%20States",
+        "exactQuote": "permit for the United States"
       },
       "additionalSources": [
         {
           "url": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa",
           "governmentDomain": true,
-          "accessedDate": "2026-10-07",
+          "accessedDate": "2026-10-20",
           "confidence": "verified",
-          "verificationPath": "Maximum length of stay; Entry requirements",
-          "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa#:~:text=a%20maximum%20of%2090%20days%20in%20any%20180-day%20period"
+          "verificationPath": "NetherlandsWorldwide > Visa for the Caribbean parts of the Kingdom > Requirements for travelling without a visa > Maximum length of stay > opening paragraph; Entry requirements",
+          "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa#:~:text=90%20days%20in%20any%20180-day%20period",
+          "exactQuote": "90 days in any 180-day period"
         }
       ],
-      "destinationType": "territory"
+      "destinationType": "territory",
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "SX",
@@ -857,22 +932,25 @@
       "source": {
         "url": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean",
         "governmentDomain": true,
-        "accessedDate": "2026-10-07",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "You hold a valid visa or residence permit > United States or Canada",
-        "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean#:~:text=If%20you%20hold%20a%20residence%20permit%20for%20the%20United%20States%20or%20Canada%2C%20you%20do%20not%20need%20a%20Caribbean%20visa."
+        "verificationPath": "NetherlandsWorldwide > Visa for the Caribbean parts of the Kingdom > Do I need a visa? > You hold a valid visa or residence permit for certain other countries > United States or Canada > first paragraph",
+        "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean#:~:text=permit%20for%20the%20United%20States",
+        "exactQuote": "permit for the United States"
       },
       "additionalSources": [
         {
           "url": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa",
           "governmentDomain": true,
-          "accessedDate": "2026-10-07",
+          "accessedDate": "2026-10-20",
           "confidence": "verified",
-          "verificationPath": "Maximum length of stay; Entry requirements",
-          "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa#:~:text=a%20maximum%20of%2090%20days%20in%20any%20180-day%20period"
+          "verificationPath": "NetherlandsWorldwide > Visa for the Caribbean parts of the Kingdom > Requirements for travelling without a visa > Maximum length of stay > opening paragraph; Entry requirements",
+          "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa#:~:text=90%20days%20in%20any%20180-day%20period",
+          "exactQuote": "90 days in any 180-day period"
         }
       ],
-      "destinationType": "territory"
+      "destinationType": "territory",
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "BQ",
@@ -888,22 +966,25 @@
       "source": {
         "url": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean",
         "governmentDomain": true,
-        "accessedDate": "2026-10-07",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "You hold a valid visa or residence permit > United States or Canada",
-        "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean#:~:text=If%20you%20hold%20a%20residence%20permit%20for%20the%20United%20States%20or%20Canada%2C%20you%20do%20not%20need%20a%20Caribbean%20visa."
+        "verificationPath": "NetherlandsWorldwide > Visa for the Caribbean parts of the Kingdom > Do I need a visa? > You hold a valid visa or residence permit for certain other countries > United States or Canada > first paragraph",
+        "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean#:~:text=permit%20for%20the%20United%20States",
+        "exactQuote": "permit for the United States"
       },
       "additionalSources": [
         {
           "url": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa",
           "governmentDomain": true,
-          "accessedDate": "2026-10-07",
+          "accessedDate": "2026-10-20",
           "confidence": "verified",
-          "verificationPath": "Maximum length of stay; Entry requirements",
-          "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa#:~:text=a%20maximum%20of%2090%20days%20in%20any%20180-day%20period"
+          "verificationPath": "NetherlandsWorldwide > Visa for the Caribbean parts of the Kingdom > Requirements for travelling without a visa > Maximum length of stay > opening paragraph; Entry requirements",
+          "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa#:~:text=90%20days%20in%20any%20180-day%20period",
+          "exactQuote": "90 days in any 180-day period"
         }
       ],
-      "destinationType": "territory"
+      "destinationType": "territory",
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "KY",
@@ -918,12 +999,15 @@
       "source": {
         "url": "https://otp.gov.ky/web/cbc/travel/visas-extensions/visitors-visas/list-of-countries-visa-required",
         "governmentDomain": true,
-        "accessedDate": "2026-10-07",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "Exemptions > US residence paragraph and thirty-day note",
-        "locationUrl": "https://otp.gov.ky/web/cbc/travel/visas-extensions/visitors-visas/list-of-countries-visa-required#:~:text=you%20are%20resident%20in%20the%20United%20States%20of%20America%3B%20and%20you%20arrive%20directly%20from%20that%20country"
+        "verificationPath": "Cayman Islands Customs & Border Control > Travel > Visas & Extensions > Visitor Visas > List of Countries - Visa Required > *Exemptions > first OR paragraph (US residents); final Note (30-day limit)",
+        "locationUrl": "https://otp.gov.ky/web/cbc/travel/visas-extensions/visitors-visas/list-of-countries-visa-required#:~:text=resident%20in%20the%20United%20States%20of%20America%3B%20and%20you%20arrive%20directly%20from%20that%20country",
+        "exactQuote": "resident in the United States of America; and you arrive directly from that country",
+        "supportingQuote": "period not exceeding thirty days"
       },
-      "destinationType": "territory"
+      "destinationType": "territory",
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "SG",
@@ -939,10 +1023,12 @@
       "source": {
         "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa-free-transit-facility",
         "governmentDomain": true,
-        "accessedDate": "2026-10-07",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "Nationals of India and selected Nationals of PRC; footnote2",
-        "locationUrl": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa-free-transit-facility#:~:text=valid%20visa%20or%20long-term%20pass"
+        "verificationPath": "Singapore ICA > Entering, Transiting and Departing > Visa Free Transit Facility > Nationals of India and selected Nationals of PRC > requirements for the 96-hour VFTF > visa/long-term-pass bullet and country list",
+        "locationUrl": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa-free-transit-facility#:~:text=long-term%20pass%20(with%20a%20validity%20of%20at%20least%20one%20month%20from%20the%20date%20of%20entry",
+        "exactQuote": "long-term pass (with a validity of at least one month from the date of entry",
+        "supportingQuote": "United States of America"
       },
       "region": "asia",
       "visaOnArrival": false,
@@ -954,7 +1040,8 @@
         "Macau SAR Travel Permit"
       ],
       "maxStayDays": 4,
-      "notes": "The actual allowance is 96 hours, as recorded in maxStayHours."
+      "notes": "The actual allowance is 96 hours, as recorded in maxStayHours.",
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "GB",
@@ -966,16 +1053,19 @@
       "source": {
         "url": "https://www.gov.uk/government/publications/document-checks-and-charges-for-carriers/charging-procedures-a-guide-for-carriers-accessible-version",
         "governmentDomain": true,
-        "accessedDate": "2026-10-07",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "2.5 The Transit without Visa Scheme; exemption document3",
-        "locationUrl": "https://www.gov.uk/government/publications/document-checks-and-charges-for-carriers/charging-procedures-a-guide-for-carriers-accessible-version#:~:text=valid%20I-551%20(Green%20Card)%20Permanent%20Residence%20card"
+        "verificationPath": "GOV.UK > Charging procedures: a guide for carriers (accessible) > 2.5 The Transit without Visa Scheme (TWOV) > at-check-in conditions > exemption document 3 and the residence-card clarification after document 5",
+        "locationUrl": "https://www.gov.uk/government/publications/document-checks-and-charges-for-carriers/charging-procedures-a-guide-for-carriers-accessible-version#:~:text=valid%20I-551%20(Green%20Card)%20Permanent%20Residence%20card%20for%20the%20United%20States%20of%20America",
+        "exactQuote": "valid I-551 (Green Card) Permanent Residence card for the United States of America",
+        "supportingQuote": "before 23.59 hours the following day"
       },
       "region": "europe",
       "visaOnArrival": false,
       "evisaRequired": false,
       "transitOnly": true,
-      "notes": "Landside transit deadline: before 23:59 on the calendar day following arrival. Departure and arrival must be by air."
+      "notes": "Landside transit deadline: before 23:59 on the calendar day following arrival. Departure and arrival must be by air.",
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "KR",
@@ -1012,15 +1102,18 @@
       "source": {
         "url": "https://overseas.mofa.go.kr/us-seattle-en/brd/m_23042/view.do?page=1&seq=40",
         "governmentDomain": true,
-        "accessedDate": "2026-10-07",
+        "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "Eligibility1; Conditions for Visa Free Entry; Visa Status and Period of Stay",
-        "locationUrl": "https://overseas.mofa.go.kr/us-seattle-en/brd/m_23042/view.do?page=1&seq=40#:~:text=including%20permanent%20residency%2C%20re-entry%20permit"
+        "verificationPath": "Consulate General of the Republic of Korea in Seattle > Consular/Visa Service > Visa Requirements > Visa Free Entry for Third Country Transit Passengers (2026-01-02) > Eligibility, item 1; Conditions for Visa Free Entry; Visa Status and Period of Stay",
+        "locationUrl": "https://overseas.mofa.go.kr/us-seattle-en/brd/m_23042/view.do?page=1&seq=40#:~:text=hold%20a%20visa%20(including%20permanent%20residency%2C%20re-entry%20permit)%20to%20enter%20either%20the%20U.S",
+        "exactQuote": "hold a visa (including permanent residency, re-entry permit) to enter either the U.S",
+        "supportingQuote": "Tourist/Transit (B-2), 30 days"
       },
       "region": "asia",
       "visaOnArrival": false,
       "evisaRequired": false,
-      "transitOnly": true
+      "transitOnly": true,
+      "lastUpdated": "2026-10-20"
     }
   ],
   "coverage": {
