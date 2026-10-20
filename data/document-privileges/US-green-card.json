@@ -107,10 +107,10 @@
           "url": "https://punetejashtme.gov.al/en/aplikim-per-vize/",
           "governmentDomain": true,
           "accessedDate": "2026-10-20",
-          "verificationPath": "Albanian Ministry for Europe and Foreign Affairs > VISA APPLICATION > Description > Visa Type C (90 days in 180); exemption table > item 2 (US residence permits)",
-          "exactQuote": "maximum period of 90 days out of a 180-day period",
+          "verificationPath": "Albanian Ministry for Europe and Foreign Affairs > VISA APPLICATION > Exemption of visa to enter and stay in the Republic of Albania for up to 90 days to 180 days > item 2 (US residence permit; prior use refers to the visa)",
+          "exactQuote": "Exemption of visa to enter and stay in the Republic of Albania for up to 90 days to 180 days",
           "confidence": "verified",
-          "locationUrl": "https://punetejashtme.gov.al/en/aplikim-per-vize/#:~:text=maximum%20period%20of%2090%20days%20out%20of%20a%20180-day%20period"
+          "locationUrl": "https://punetejashtme.gov.al/en/aplikim-per-vize/#:~:text=Exemption%20of%20visa%20to%20enter%20and%20stay"
         }
       ],
       "lastUpdated": "2026-10-20"
@@ -178,7 +178,7 @@
       "maxStayDays": 30,
       "visaOnArrival": false,
       "evisaRequired": false,
-      "additionalRequirements": "Passport normally valid for at least six months, return or onward ticket, and the required electronic entry/exit form (e-Ticket). The embassy FAQ permits Cuban legal US residents with a valid Green Card to use a passport expired for up to 24 months; it also lists a tourist-entry exception for Venezuelan passports expired for up to 24 months.",
+      "additionalRequirements": "Carry the valid US residence document, return/onward ticket and required electronic entry/exit form (e-Ticket). From 1 December 2025 through 31 December 2026, the DGM passport-validity waiver covers qualifying tourists, including foreign nationals with documents permitting entry to the United States; their passport must remain valid throughout the stay and departure. The embassy FAQ separately permits Cuban legal US residents with a valid Green Card to use a passport expired for up to 24 months, and lists a tourist-entry exception for Venezuelan passports expired for up to 24 months.",
       "source": {
         "url": "https://usa.mirex.gob.do/preguntas-frecuentes/",
         "governmentDomain": true,
@@ -188,7 +188,7 @@
         "confidence": "verified",
         "locationUrl": "https://usa.mirex.gob.do/preguntas-frecuentes/#:~:text=Los%20titulares%20de%20visas%20o%20residencias%20v%C3%A1lidas%20de%20estos%20pa%C3%ADses%20pueden%20ingresar%20sin%20necesidad%20de%20visa%20adicional."
       },
-      "notes": "The embassy FAQ supplies the US-residence visa exemption. The Dirección General de Migración tourist-extension service supplies the initial 30-day stay; extensions follow its application procedure.",
+      "notes": "The embassy FAQ supplies the US-residence visa exemption. The DGM tourist-extension service supplies the initial 30-day stay. The DGM notice of 2 December 2025 supplies the current temporary passport-validity waiver; eligibility and travel dates must meet that notice.",
       "additionalSources": [
         {
           "url": "https://migracion.gob.do/servicio/prorroga-de-estadia/",
@@ -198,9 +198,26 @@
           "exactQuote": "los 30 días establecidos para los turistas",
           "verificationPath": "Dirección General de Migración > Servicios > PRÓRROGA DE ESTADÍA PARA TURISTAS > A quién va dirigido > opening paragraph (standard 30-day tourist stay)",
           "locationUrl": "https://migracion.gob.do/servicio/prorroga-de-estadia/#:~:text=los%2030%20d%C3%ADas%20establecidos%20para%20los%20turistas"
+        },
+        {
+          "url": "https://migracion.gob.do/dgm-anuncia-prorroga-que-simplifica-ingreso-para-turistas-a-partir-de-este-01-de-diciembre/",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Dirección General de Migración, Dirección de Comunicaciones",
+          "verificationPath": "DGM > News > DGM anuncia prórroga que simplifica ingreso para turistas a partir de este 01 de diciembre > 2 December 2025 > paragraphs 2–4 (other nationalities, effective dates and passport validity)",
+          "exactQuote": "durante su permanencia y salida del territorio dominicano",
+          "supportingQuote": "hasta el 31 de diciembre del 2026"
         }
       ],
-      "lastUpdated": "2026-10-20"
+      "lastUpdated": "2026-10-20",
+      "passportValidityWaiver": {
+        "validFrom": "2025-12-01",
+        "validThrough": "2026-12-31",
+        "purpose": "tourism",
+        "scope": "Covered nationalities and other foreign nationals holding documentation permitting entry to the listed countries, including the United States",
+        "requiredPassportValidity": "through the stay and departure"
+      }
     },
     {
       "country": "CR",
@@ -559,7 +576,7 @@
         "locationUrl": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa#:~:text=Cape%20Verde",
         "supportingQuote": "at least 60 days beyond"
       },
-      "notes": "The listed nationality subset has an explicit 30-day stay in the MFA table. Egypt also has an age/airline condition. Other nationalities described with a one-month period are preserved in the coverage audit for duration/portal checking.",
+      "notes": "The listed nationality subset has an explicit 30-day stay in the MFA table. Egypt also has an age and airline condition.",
       "eligibleNationalities": [
         "CV",
         "EG",
@@ -848,7 +865,6 @@
         "exactQuote": "A valid resident or permanent resident certificate",
         "supportingQuote": "may stay in Taiwan for 14 days, starting from the next day of arrival."
       },
-      "extendible": false,
       "notes": "Apply online for TAC and print the approval. The certificate is valid for 90 days; each stay is 14 days from the day following arrival. Up to six TAC entries per calendar year.",
       "lastUpdated": "2026-10-20"
     },
@@ -965,7 +981,7 @@
       ],
       "destinationType": "territory",
       "lastUpdated": "2026-10-20",
-      "notes": "Aruba’s local guidance sets standard tourist admission at up to 30 days. An extension to a total of up to 90 days may be requested during that initial stay. Certain property-owner or Aruban-guarantor arrangements may support an extension up to 180 days, subject to the immigration procedure and sufficient funds and travel insurance. The officer sets the admitted period."
+      "notes": "Aruba’s local guidance sets standard tourist admission at up to 30 days. An extension to a total of up to 90 days may be requested during that initial stay. Certain property-owner or Aruban-guarantor arrangements may support an extension up to 180 days, subject to the immigration procedure and sufficient funds and travel insurance. The local guidance caps tourist stays at 180 days per calendar year. The officer sets the admitted period."
     },
     {
       "country": "CW",
