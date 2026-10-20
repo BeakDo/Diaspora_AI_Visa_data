@@ -6,7 +6,7 @@
     "description": "US permanent residence document privileges verified against destination government sources"
   },
   "lastUpdated": "2026-10-20",
-  "totalUnlocked": 31,
+  "totalUnlocked": 30,
   "unlocks": [
     {
       "country": "MX",
@@ -982,75 +982,6 @@
       "destinationType": "territory",
       "lastUpdated": "2026-10-20",
       "notes": "Aruba’s local guidance sets standard tourist admission at up to 30 days. An extension to a total of up to 90 days may be requested during that initial stay. Certain property-owner or Aruban-guarantor arrangements may support an extension up to 180 days, subject to the immigration procedure and sufficient funds and travel insurance. The local guidance caps tourist stays at 180 days per calendar year. The officer sets the admitted period."
-    },
-    {
-      "country": "CW",
-      "countryName": "Curaçao",
-      "region": "caribbean",
-      "accessType": "visa_free",
-      "conditions": "Valid US residence permit exempts the holder from a Caribbean visa.",
-      "visaOnArrival": false,
-      "evisaRequired": false,
-      "additionalRequirements": "Passport issued within ten years and valid throughout the stay, with a blank page for stamps; proof of return eligibility, purpose, accommodation and sufficient funds. Complete the free Digital Immigration Card before travel and carry its confirmation. The official DI-card FAQ covers overnight visitors and transit passengers who must pass immigration to check in again with a different carrier. The Tourist Board recommends travel medical insurance; NetherlandsWorldwide lists minimum medical coverage of USD 15,000 for visa-free travel. Work requires the applicable permit.",
-      "source": {
-        "url": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean",
-        "governmentDomain": true,
-        "accessedDate": "2026-10-20",
-        "confidence": "verified",
-        "verificationPath": "NetherlandsWorldwide > Visa for the Caribbean parts of the Kingdom > Do I need a visa? > You hold a valid visa or residence permit for certain other countries > United States or Canada > first paragraph",
-        "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean#:~:text=permit%20for%20the%20United%20States",
-        "exactQuote": "permit for the United States"
-      },
-      "additionalSources": [
-        {
-          "url": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa",
-          "governmentDomain": true,
-          "accessedDate": "2026-10-20",
-          "confidence": "verified",
-          "verificationPath": "NetherlandsWorldwide > Visa for the Caribbean parts of the Kingdom > Requirements for travelling without a visa > Maximum length of stay > opening paragraph; Entry requirements",
-          "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa#:~:text=90%20days%20in%20any%20180-day%20period",
-          "exactQuote": "90 days in any 180-day period"
-        },
-        {
-          "url": "https://www.curacao.com/en/questions/customs-and-immigration/do-i-need-a-visa-to-visit-curacao",
-          "governmentDomain": true,
-          "accessedDate": "2026-10-20",
-          "confidence": "verified",
-          "authority": "Curaçao Tourist Board",
-          "exactQuote": "maximum 30 consecutive days",
-          "verificationPath": "Curaçao Tourist Board > Customs and Immigration > Do I need a visa? > first paragraph (30 consecutive days / 90 in 365)"
-        },
-        {
-          "url": "https://www.curacao.com/en/article/what-do-i-need-to-visit-curacao",
-          "governmentDomain": true,
-          "accessedDate": "2026-10-20",
-          "confidence": "verified",
-          "authority": "Curaçao Tourist Board",
-          "exactQuote": "tourism stays up to 90 days",
-          "verificationPath": "Curaçao Tourist Board > What do I need to visit Curaçao? > updated August2026; Do I need a visa?; passport, DI-card and financial documentation sections"
-        },
-        {
-          "url": "https://dicardcuracao.com/dicard/Home/Faq",
-          "governmentDomain": true,
-          "accessedDate": "2026-10-20",
-          "confidence": "verified",
-          "authority": "Curaçao official Digital Immigration Card service",
-          "exactQuote": "mandatory form for all visitors",
-          "verificationPath": "Official Digital Immigration Card > FAQ PDF > What is the Digital Immigration Card and who is required to fill it out?; Who is considered a visitor?; transit question on page2"
-        },
-        {
-          "url": "https://immigrationcur.org/en/dep/toerist/",
-          "governmentDomain": true,
-          "accessedDate": "2026-10-20",
-          "confidence": "verified",
-          "authority": "Curaçao Ministry of Justice, Admission Office",
-          "exactQuote": "Tourists that fall under this category can stay for 30 days.",
-          "verificationPath": "Curaçao Ministry of Justice > Admission Office > Tourist > General > Dutch and Americans; Other Nationality. The first paragraph gives the 90-day nationality groups; the next paragraph gives the remaining 30-day group."
-        }
-      ],
-      "destinationType": "territory",
-      "lastUpdated": "2026-10-20",
-      "stayRule": "The Curaçao Ministry of Justice gives a 30-day tourist stay for nationalities outside its longer-stay groups. EU nationals other than Dutch nationals, and Canadian, Australian, New Zealand and Japanese nationals may stay 90 days a year; Dutch and US nationals may stay six months a year. Other official portals publish different general limits. The numerical maximum and aggregate period for this residence-permit entry remain pending clarification; the border authorization controls the stay."
     },
     {
       "country": "SX",
