@@ -5,7 +5,7 @@
     "countryName": "United States",
     "description": "US permanent residence document privileges verified against destination government sources"
   },
-  "lastUpdated": "2026-10-07",
+  "lastUpdated": "2026-10-20",
   "totalUnlocked": 31,
   "unlocks": [
     {
@@ -69,18 +69,19 @@
       "maxStayDays": 30,
       "visaOnArrival": false,
       "evisaRequired": false,
-      "additionalRequirements": "Present a valid travel document and the valid US permanent resident card. The travel document must have been issued within the last ten years and normally remain valid for at least three months after the planned departure.",
+      "additionalRequirements": "Present a valid travel document and the valid US permanent resident card. The travel document must have been issued within the last ten years and normally remain valid for at least three months after the planned departure. In justified emergencies, the government permits a shorter passport-validity period if the document remains valid through the planned departure.",
       "source": {
         "url": "https://www.gov.me/en/article/visas",
         "governmentDomain": true,
         "accessedDate": "2026-10-20",
-        "verificationPath": "Government of Montenegro > Visas > visa-regime bullet for foreign residence permits, followed by Validity of travel documents",
+        "verificationPath": "Government of Montenegro > Visas > visa-regime bullet for foreign residence permits, followed by Validity of travel documents > justified emergency exception under Validity of travel documents",
         "exactQuote": "can enter, transit through the territory and stay in Montenegro for up to 30 days",
         "confidence": "verified",
         "supportingQuote": "the United States of America",
         "locationUrl": "https://www.gov.me/en/article/visas#:~:text=Holders%20of%20valid%20foreign%20travel%20documents%20who%20have%20a%20residence%20permit"
       },
-      "notes": "The residence-permit bullet names the United States of America. If the residence permit expires within 30 days, the authorized stay under this exemption ends by its expiry. The source lists foreign residence permits separately from foreign visas."
+      "notes": "The residence-permit bullet names the United States of America. If the residence permit expires within 30 days, the authorized stay under this exemption ends by its expiry. The source lists foreign residence permits separately from foreign visas.",
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "AL",
@@ -1020,11 +1021,20 @@
           "authority": "Curaçao official Digital Immigration Card service",
           "exactQuote": "mandatory form for all visitors",
           "verificationPath": "Official Digital Immigration Card > FAQ PDF > What is the Digital Immigration Card and who is required to fill it out?; Who is considered a visitor?; transit question on page2"
+        },
+        {
+          "url": "https://immigrationcur.org/en/dep/toerist/",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Curaçao Ministry of Justice, Admission Office",
+          "exactQuote": "Tourists that fall under this category can stay for 30 days.",
+          "verificationPath": "Curaçao Ministry of Justice > Admission Office > Tourist > General > Dutch and Americans; Other Nationality. The first paragraph gives the 90-day nationality groups; the next paragraph gives the remaining 30-day group."
         }
       ],
       "destinationType": "territory",
       "lastUpdated": "2026-10-20",
-      "stayRule": "The authorized stay requires confirmation from Curaçao immigration. The Tourist Board’s visa FAQ gives 30 consecutive days and 90 days in 365, while its August 2026 entry guide describes visa-free stays up to 90 days and NetherlandsWorldwide gives a general 90-days-in-180 limit. The DI-card FAQ gives a separate visitor limit of 90 nights and 180 days per calendar year."
+      "stayRule": "The Curaçao Ministry of Justice gives a 30-day tourist stay for nationalities outside its longer-stay groups. EU nationals other than Dutch nationals, and Canadian, Australian, New Zealand and Japanese nationals may stay 90 days a year; Dutch and US nationals may stay six months a year. Other official portals publish different general limits. The numerical maximum and aggregate period for this residence-permit entry remain pending clarification; the border authorization controls the stay."
     },
     {
       "country": "SX",
@@ -1032,8 +1042,7 @@
       "region": "caribbean",
       "accessType": "visa_free",
       "conditions": "Valid US residence permit exempts the holder from a Caribbean visa.",
-      "maxStayDays": 90,
-      "periodDays": 180,
+      "maxStayDays": 30,
       "visaOnArrival": false,
       "evisaRequired": false,
       "additionalRequirements": "Passport issued within ten years and valid throughout the stay; proof of return eligibility, purpose and accommodation; funds (hotel USD 150–200/person/day; family USD 100/person/day or sponsorship); medical coverage at least USD 15,000 including hospital care, emergency care and repatriation. Local authority may admit for a shorter period; work requires a permit. Complete the official Sint Maarten Entry Form (ED card) before arrival for each traveller, including family/group members; the portal also covers travellers transferring through Sint Maarten and visitors continuing to French Saint Martin.",
@@ -1064,10 +1073,21 @@
           "authority": "Government of Sint Maarten Immigration and Border Protection",
           "exactQuote": "Each traveler in a group or family are required to complete this form.",
           "verificationPath": "Official Government of Sint Maarten Immigration and Border Protection > Register a New Sint Maarten Entry Form > introductory paragraph and Article15a notice"
+        },
+        {
+          "url": "https://www.vacationstmaarten.com/plan-your-vacation/travel-tips/passports-immigration-and-customs/",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Government of Sint Maarten, St. Maarten Tourist Bureau",
+          "exactQuote": "30 days uninterrupted for tourists in general",
+          "verificationPath": "St. Maarten Tourist Bureau > Passports, Immigration & Customs > How long can I stay in St. Maarten?; Visa Exemptions > United States or Canada"
         }
       ],
       "destinationType": "territory",
-      "lastUpdated": "2026-10-20"
+      "lastUpdated": "2026-10-20",
+      "stayRule": "The St. Maarten Tourist Bureau gives a standard uninterrupted tourist stay of 30 days. Nationals of Canada, the European Union other than the Netherlands, Australia, New Zealand and Japan may stay for three uninterrupted months; Dutch and US nationals may stay for six uninterrupted months. Longer stays follow the applicable extension procedure. The period authorized at the border controls the visit.",
+      "notes": "The residence permit supplies the visa exemption. The local nationality-based table supplies the admission periods; the general 90-days-in-180 statement on NetherlandsWorldwide is recorded separately."
     },
     {
       "country": "BQ",
@@ -1116,10 +1136,20 @@
           "authority": "Openbaar Lichaam Bonaire",
           "exactQuote": "supporting documents must be presented to the agents at the airport or seaport",
           "verificationPath": "Openbaar Lichaam Bonaire > Visitor Entry Tax > Conditions for an exceptional rate or exemption > opening paragraph and categories1-5"
+        },
+        {
+          "url": "https://english.rijksdienstcn.com/immigration-naturalisation/tourist-stay",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Rijksdienst Caribisch Nederland",
+          "exactQuote": "up to 90 days every 180 days",
+          "verificationPath": "Rijksdienst Caribisch Nederland > Immigration and Naturalisation > Tourist stay > Other nationalities; compare Dutch and US citizens"
         }
       ],
       "destinationType": "territory",
-      "lastUpdated": "2026-10-20"
+      "lastUpdated": "2026-10-20",
+      "notes": "Rijksdienst Caribisch Nederland confirms up to 90 days in every 180 days for other nationalities, subject to a shorter border-authorized period. The 180-days-in-365 tourist allowance belongs to Dutch and US citizens."
     },
     {
       "country": "KY",
