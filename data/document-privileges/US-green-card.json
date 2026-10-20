@@ -37,7 +37,7 @@
       "maxStayDays": 90,
       "visaOnArrival": false,
       "evisaRequired": false,
-      "additionalRequirements": "Present the valid national passport together with the US permanent resident card. The exemption covers national passports and excludes emergency travel documents and travel documents issued under international conventions.",
+      "additionalRequirements": "Present the valid national passport together with the US permanent resident card. The exemption covers national passports and excludes emergency travel documents and travel documents issued under international conventions. Show funds equivalent to EUR 50 per day, and carry return/onward and accommodation evidence for border inspection. The MFA recommends health insurance covering at least EUR 20,000. Its parental-consent requirement for Serbian minors is separate from the rule for foreign minors, who may enter without parental consent under that guidance.",
       "source": {
         "url": "https://www.mfa.gov.rs/en/citizens/travel-serbia/visa-requirements",
         "governmentDomain": true,
@@ -47,7 +47,19 @@
         "confidence": "verified",
         "locationUrl": "https://www.mfa.gov.rs/en/citizens/travel-serbia/visa-requirements#:~:text=and%20for%20holders%20of%20foreign%20national%20passports%20having%20residence%20permit%20in%20the%20countries%20of%20the%20Schengen%20area%2C%20EU%20or%20the%20United%20States%20of%20America."
       },
-      "notes": "The opening paragraphs specify the residence-permit exemption, the 90-day limit during a six-month period, and the requirement to present a valid passport when the residence permit is a separate card. The residence permit must remain valid for the stay."
+      "notes": "The opening paragraphs specify the residence-permit exemption, the 90-day limit during a six-month period, and the requirement to present a valid passport when the residence permit is a separate card. The residence permit must remain valid for the stay.",
+      "lastUpdated": "2026-10-20",
+      "additionalSources": [
+        {
+          "url": "https://mfa.gov.rs/en/citizens/travel-serbia/general-entry-requirements",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Ministry of Foreign Affairs of Serbia",
+          "exactQuote": "50 Euros per day of stay",
+          "verificationPath": "Serbian MFA > Travel to Serbia > General Entry Requirements > funds, foreign minors, health insurance, final border-inspection paragraph"
+        }
+      ]
     },
     {
       "country": "ME",
@@ -110,14 +122,14 @@
       "maxStayDays": 30,
       "visaOnArrival": false,
       "evisaRequired": false,
-      "additionalRequirements": "Present a valid US permanent resident card and a passport issued within the past ten years or a travel document of permanent validity, valid at least three months beyond intended departure. Observe the 30-day continuous-stay limit and rolling 90-days-in-180 total. Show means of subsistence equivalent to BAM 150 per day through the accepted evidence listed by the ministry. For private accommodation and a stay exceeding three days, register within 48 hours of entry; accommodation providers have their own registration duty.",
+      "additionalRequirements": "Present a valid US permanent resident card and a passport issued within the past ten years or a travel document of permanent validity, valid at least three months beyond intended departure. Observe the 30-day continuous-stay limit and rolling 90-days-in-180 total. Show means of subsistence equivalent to BAM 150 per day through the accepted evidence listed by the ministry. For private accommodation and a stay exceeding three days, register within 48 hours of entry; accommodation providers have their own registration duty. For children under 14, the ministry specifies accompaniment by a parent, legal representative, guardian or duly authorized escort; unaccompanied travel requires notarized consent. The ministry accepts an airline document for an unaccompanied minor, a certified school-excursion list or a sport/cultural event participant list as consent evidence under the stated conditions. The ministry also specifies the document contents and translation requirements.",
       "source": {
         "url": "https://msb.gov.ba/en/information-for-foreigners",
         "governmentDomain": true,
         "accessedDate": "2026-10-20",
         "confidence": "verified",
         "authority": "Ministry of Security of Bosnia and Herzegovina",
-        "verificationPath": "Ministry of Security > Informations for Foreigners > Basic information on entry and stay of aliens > Visa-free regime in the case of possession of a multiple-entry Schengen visa or residence permit in the Schengen or EU countries > two paragraphs on US residence and stay limits; Travel documents; Means of subsistence; Registration of residence",
+        "verificationPath": "Ministry of Security > Informations for Foreigners > Basic information on entry and stay of aliens > Visa-free regime in the case of possession of a multiple-entry Schengen visa or residence permit in the Schengen or EU countries > two paragraphs on US residence and stay limits; Travel documents; Means of subsistence; Registration of residence; Entry of minors to BiH",
         "exactQuote": "residence permit issued in the Schengen, EU countries, or in the United States of America.",
         "supportingQuote": "no longer than 30 days",
         "locationUrl": "https://msb.gov.ba/en/information-for-foreigners#:~:text=residence%20permit%20issued%20in%20the%20Schengen"
@@ -133,7 +145,7 @@
       "maxStayDays": 30,
       "visaOnArrival": false,
       "evisaRequired": false,
-      "additionalRequirements": "Present the passport and valid US permanent resident card. A longer visit requires a visitor permit extension.",
+      "additionalRequirements": "Present the passport and valid US permanent resident card. A longer visit requires a visitor permit extension. Carry a return ticket and sufficient funds. Children under 18 need the travel documents and parental consent described by the Belize Tourism Board; when travelling with one parent, the board requires a notarized consent letter from the other parent.",
       "source": {
         "url": "https://immigration.gov.bz/visa/visa-who-qualify/",
         "governmentDomain": true,
@@ -143,7 +155,19 @@
         "confidence": "verified",
         "locationUrl": "https://immigration.gov.bz/visa/visa-who-qualify/#:~:text=If%20you%20hold%20a%20valid%20multiple%20entry%20visa%20or%20Permanent%20Residence%20Card%20from%20the%20United%20States%20of%20America."
       },
-      "notes": "The US residence-card exemption is listed separately from the multiple-entry US visa route."
+      "notes": "The US residence-card exemption is listed separately from the multiple-entry US visa route.",
+      "lastUpdated": "2026-10-20",
+      "additionalSources": [
+        {
+          "url": "https://www.travelbelize.org/getting-here/visas-and-immigration/",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Belize Tourism Board",
+          "exactQuote": "Children traveling with one parent require a notarized letter of authority",
+          "verificationPath": "Belize Tourism Board > Visas and Immigration > passport/return-ticket paragraph and children-under-18 paragraph"
+        }
+      ]
     },
     {
       "country": "DO",
@@ -185,13 +209,13 @@
       "maxStayDays": 30,
       "visaOnArrival": false,
       "evisaRequired": false,
-      "additionalRequirements": "Present the passport and qualifying residence document. General third/fourth-group passport validity is 180 calendar days. Nicaragua and Colombia have a 90-calendar-day passport-validity requirement and may receive up to 90 calendar days of stay, subject to the residence-document expiry cap.",
+      "additionalRequirements": "Present the passport and qualifying residence document. General third/fourth-group passport validity is 180 calendar days. Nicaragua and Colombia have a 90-calendar-day passport-validity requirement and may receive up to 90 calendar days of stay, subject to the residence-document expiry cap. Show funds of at least USD 100 for each month or fraction of a month and a return/onward ticket. The directive requires secure, verifiable residence evidence in Spanish or English, or a corresponding translation. It excludes stamps, handwritten or altered documents, residence applications or extensions, passport-stamped residence and indefinite-residence documents. Identity differences may require supporting civil-status evidence.",
       "source": {
         "url": "https://www.icoder.go.cr/fileadmin/documentos/tramites/visas/Directrices-Generales-de-Visas-Noviembre-2025-Alcance-148-Gaceta-N_-216-17-11-2025.pdf",
         "governmentDomain": true,
         "accessedDate": "2026-10-20",
         "verificationPath": "Directive AJ-484-11-2025 > Quinto I, PDF pages14-15; nationality/stay provisions in the third/fourth-group sections; III/IV nationality groups; Tercero III (Nicaragua) and V (Colombia)",
-        "exactQuote": "con una vigencia mínima de 1 día natural en Estados Unidos de América y Canadá podrán prescindir de visa",
+        "exactQuote": "con una vigencia mínima de 1 día natural",
         "confidence": "verified",
         "locationUrl": "https://www.icoder.go.cr/fileadmin/documentos/tramites/visas/Directrices-Generales-de-Visas-Noviembre-2025-Alcance-148-Gaceta-N_-216-17-11-2025.pdf#page=14"
       },
@@ -206,7 +230,18 @@
           "minimumPassportValidityDays": 90
         }
       },
-      "lastUpdated": "2026-10-20"
+      "lastUpdated": "2026-10-20",
+      "additionalSources": [
+        {
+          "url": "https://www.icoder.go.cr/fileadmin/documentos/tramites/visas/Directrices-Generales-de-Visas-Noviembre-2025-Alcance-148-Gaceta-N_-216-17-11-2025.pdf",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Costa Rica Dirección General de Migración y Extranjería",
+          "exactQuote": "documentos que indican residencias en trámite",
+          "verificationPath": "Directive AJ-484-11-2025 > Primero 4, PDF page4 (funds/ticket); Sexto IV, PDF page16 (foreign-document exclusions, translations and identity differences)"
+        }
+      ]
     },
     {
       "country": "GE",
@@ -249,12 +284,12 @@
       "maxStayDays": 180,
       "visaOnArrival": false,
       "evisaRequired": false,
-      "additionalRequirements": "Valid passport and physical residence card or passport sticker. The residence document must show its title, name, nationality, date of birth and Gregorian validity dates in Latin script.",
+      "additionalRequirements": "Valid passport and physical residence card or passport sticker. The residence document must show its title, name, nationality, date of birth and Gregorian validity dates in Latin script. Minor foreigners may enter with a parent or legal representative, or when arriving to join a parent, legal representative or receiving organization.",
       "source": {
         "url": "https://www.mfa.am/en/visa/",
         "governmentDomain": true,
         "accessedDate": "2026-10-20",
-        "verificationPath": "Armenian MFA > Visa > Temporary Visa Exemption and linked 111-country list dated 30 June 2026",
+        "verificationPath": "Armenian MFA > Visa > Temporary Visa Exemption and linked 111-country list dated 30 June 2026; Arrival to Armenia > minor foreigners",
         "exactQuote": "who hold a valid residence permit issued by the United States of America",
         "confidence": "verified",
         "locationUrl": "https://www.mfa.am/en/visa/#:~:text=who%20hold%20a%20valid%20residence%20permit%20issued%20by%20the%20United%20States%20of%20America"
@@ -375,7 +410,8 @@
         "VN",
         "ZM",
         "ZW"
-      ]
+      ],
+      "lastUpdated": "2026-10-20"
     },
     {
       "country": "MA",
@@ -390,14 +426,14 @@
         "url": "https://www.acces-maroc.ma/assets/docs/Conditions%20utilisation%20eVisa%20-%20An.pdf",
         "governmentDomain": true,
         "accessedDate": "2026-10-20",
-        "verificationPath": "Acces Maroc government eVisa portal > Terms of use > Category B, documents and entry requirements; General Conditions (maximum validity and minors); Advice and Recommendations (entry evidence)",
+        "verificationPath": "Acces Maroc government eVisa portal > Terms of use > Category B, documents and entry requirements; General Conditions (maximum validity and minors); Advice and Recommendations (entry evidence); General Conditions > consecutive eVisas and residency restriction",
         "exactQuote": "with a residency card or residency permit valid for at least 180 days",
         "confidence": "verified",
         "authority": "Moroccan government eVisa service, Acces Maroc",
         "supportingQuote": "United States of America",
         "locationUrl": "https://www.acces-maroc.ma/assets/docs/Conditions%20utilisation%20eVisa%20-%20An.pdf#page=1"
       },
-      "notes": "Paid, single-entry tourism/business eVisa, valid for up to 180 days from issue, with a stay of up to 30 days. Residence renewal receipts, special certificates and work permits are excluded from accepted Category B evidence.",
+      "notes": "Paid, single-entry tourism/business eVisa, valid for up to 180 days from issue, with a stay of up to 30 days. Residence renewal receipts, special certificates and work permits are excluded from accepted Category B evidence. Holders of several eVisas must leave after each permitted stay before beginning a new one. This eVisa route permits tourism/business visits and excludes an application for Moroccan residency.",
       "lastUpdated": "2026-10-20"
     },
     {
@@ -489,12 +525,12 @@
       "maxStayDays": 30,
       "visaOnArrival": false,
       "evisaRequired": false,
-      "additionalRequirements": "Original Alien Registration Card and national passport valid at least six months at entry; return/onward ticket, accommodation and evidence of funds. Minors travelling with one parent or other adults may need the specified notarized parental consent. Travellers over one year old arriving from yellow-fever-risk countries, including airport transit exceeding 12 hours, must meet the published yellow-fever vaccination requirement.",
+      "additionalRequirements": "Original Alien Registration Card and national passport valid at least six months at entry; return/onward ticket, accommodation and evidence of funds. When a minor travels with one parent, a notarized consent letter from the other parent may be requested; travel with non-parents requires a notarized letter from the guardians, covering travel and medical consent. Travellers over one year old arriving from yellow-fever-risk countries, including airport transit exceeding 12 hours, must have the required vaccination at least ten days before entry.",
       "source": {
         "url": "https://www.bahamas.com/plan-your-trip/island-faq/visa-immigration?sectionid=58944",
         "governmentDomain": true,
         "accessedDate": "2026-10-20",
-        "verificationPath": "Bahamas Ministry of Tourism > Visa and Immigration > Non-US citizens currently residing in the US; Other Countries visitor documents; minors FAQ; vaccination FAQ",
+        "verificationPath": "Bahamas Ministry of Tourism > Visa and Immigration > Non-US citizens currently residing in the US; Other Countries visitor documents; minors FAQ; vaccination FAQ; Do minors travelling with one parent or non-parents need documentation?; Are vaccinations required?",
         "exactQuote": "An original Alien Registration Card (Green Card)",
         "confidence": "verified",
         "authority": "Bahamas Ministry of Tourism, Investments and Aviation",
@@ -799,14 +835,14 @@
       "authorizationValidityDays": 90,
       "multipleEntry": true,
       "maxEntriesPerCalendarYear": 6,
-      "additionalRequirements": "Regular passport valid at least six months on arrival; onward/return air or ferry ticket; no previous employment as a migrant worker in Taiwan; no Taiwan immigration or legal violations; print TAC and carry the supporting document. Stay starts the day after arrival. Current portal also allows qualifying expired residence certificates within the specified ten-year window. Work permits and VOID/CANCELLED visas are excluded. Complete the online Arrival Card before each repeat entry on the same certificate; the TAC instructions exempt the first entry on that certificate from this form.",
+      "additionalRequirements": "Regular passport valid at least six months on arrival; onward/return air or ferry ticket; no previous employment as a migrant worker in Taiwan; no Taiwan immigration or legal violations; print TAC and carry the supporting document. Stay starts the day after arrival. Current portal also allows qualifying expired residence certificates within the specified ten-year window. Work permits and VOID/CANCELLED visas are excluded. Complete the online Arrival Card before each repeat entry on the same certificate; the TAC instructions exempt the first entry on that certificate from this form. The ten-year expired-document period is measured to the arrival date. The portal gives a separate issuing-date calculation where a document has no stated validity, and a permanent-resident-certificate option using 9999-12-31 where no expiry date is shown.",
       "policyChange": "New Cambodian TAC applications ended 2026-08-01; valid certificates approved before/on that date have a separate grandfathered route.",
       "source": {
         "url": "https://niaspeedy.immigration.gov.tw/nia_southeast/",
         "governmentDomain": true,
         "accessedDate": "2026-10-20",
         "confidence": "verified",
-        "verificationPath": "National Immigration Agency TAC portal > select English > 下一步/Next > 下一步 / Next > Special requirements > item 1 > first document bullet. Basic requirements and Notes give passport, ticket, stay and entry-count conditions; Notes on expired documents and Arrival Card for repeat entry",
+        "verificationPath": "National Immigration Agency TAC portal > select English > 下一步/Next > 下一步 / Next > Special requirements > item 1 > first document bullet. Basic requirements and Notes give passport, ticket, stay and entry-count conditions; Notes on expired documents and Arrival Card for repeat entry; Notes8-9 (arrival-date calculation and no-expiry permanent residence)",
         "locationUrl": "https://niaspeedy.immigration.gov.tw/nia_southeast/#:~:text=A%20valid%20resident%20or%20permanent%20resident%20certificate",
         "exactQuote": "A valid resident or permanent resident certificate",
         "supportingQuote": "may stay in Taiwan for 14 days, starting from the next day of arrival."
@@ -884,11 +920,10 @@
       "region": "caribbean",
       "accessType": "visa_free",
       "conditions": "Valid US residence permit exempts the holder from a Caribbean visa.",
-      "maxStayDays": 90,
-      "periodDays": 180,
+      "maxStayDays": 30,
       "visaOnArrival": false,
       "evisaRequired": false,
-      "additionalRequirements": "Passport issued within ten years and valid throughout the stay; proof of return eligibility, purpose and accommodation; funds (hotel USD 150–200/person/day; family USD 100/person/day or sponsorship); medical coverage at least USD 15,000 including hospital care, emergency care and repatriation. Local authority may admit for a shorter period; work requires a permit.",
+      "additionalRequirements": "Passport issued within ten years and valid throughout the stay; proof of return eligibility, purpose, accommodation and sufficient funds. Complete the official ED Card before arrival when immigration clearance is required; cruise passengers normally fall outside that process unless their vessel clears immigration. A USD 20 sustainability fee for non-exempt air arrivals is collected through the ED system, with published exemptions for residents, children under eight, same-day visitors, duty crew, qualifying repeat visitors and qualifying former-resident students. NetherlandsWorldwide lists medical cover of at least USD 15,000; Aruba’s local guidance recommends insurance and requires it for a stay extension.",
       "source": {
         "url": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean",
         "governmentDomain": true,
@@ -907,10 +942,29 @@
           "verificationPath": "NetherlandsWorldwide > Visa for the Caribbean parts of the Kingdom > Requirements for travelling without a visa > Maximum length of stay > opening paragraph; Entry requirements",
           "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa#:~:text=90%20days%20in%20any%20180-day%20period",
           "exactQuote": "90 days in any 180-day period"
+        },
+        {
+          "url": "https://www.aruba.com/es/planea-tu-visita/como-llegar-a-aruba/normas-de-inmigracion",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Aruba Tourism Authority",
+          "exactQuote": "El período máximo estándar de tiempo que una persona puede ser admitida en Aruba como turista es de 30 días.",
+          "verificationPath": "Aruba Tourism Authority > Normas de inmigración > ¿Cuánto tiempo puedo permanecer en Aruba? > standard admission and extension bullets"
+        },
+        {
+          "url": "https://www.aruba.com/us/sustainability-fee",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Aruba Tourism Authority, information supplied by AWSS",
+          "exactQuote": "Children under eight years old",
+          "verificationPath": "Aruba Tourism Authority > Sustainability Fee > ED-card payment update; Who is exempt from payment?; Do cruise ship passengers need to complete an ED card?"
         }
       ],
       "destinationType": "territory",
-      "lastUpdated": "2026-10-20"
+      "lastUpdated": "2026-10-20",
+      "notes": "Aruba’s local guidance sets standard tourist admission at up to 30 days. An extension to a total of up to 90 days may be requested during that initial stay. Certain property-owner or Aruban-guarantor arrangements may support an extension up to 180 days, subject to the immigration procedure and sufficient funds and travel insurance. The officer sets the admitted period."
     },
     {
       "country": "CW",
@@ -918,11 +972,9 @@
       "region": "caribbean",
       "accessType": "visa_free",
       "conditions": "Valid US residence permit exempts the holder from a Caribbean visa.",
-      "maxStayDays": 90,
-      "periodDays": 180,
       "visaOnArrival": false,
       "evisaRequired": false,
-      "additionalRequirements": "Passport issued within ten years and valid throughout the stay; proof of return eligibility, purpose and accommodation; funds (hotel USD 150–200/person/day; family USD 100/person/day or sponsorship); medical coverage at least USD 15,000 including hospital care, emergency care and repatriation. Local authority may admit for a shorter period; work requires a permit.",
+      "additionalRequirements": "Passport issued within ten years and valid throughout the stay, with a blank page for stamps; proof of return eligibility, purpose, accommodation and sufficient funds. Complete the free Digital Immigration Card before travel and carry its confirmation. The official DI-card FAQ covers overnight visitors and transit passengers who must pass immigration to check in again with a different carrier. The Tourist Board recommends travel medical insurance; NetherlandsWorldwide lists minimum medical coverage of USD 15,000 for visa-free travel. Work requires the applicable permit.",
       "source": {
         "url": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean",
         "governmentDomain": true,
@@ -941,10 +993,38 @@
           "verificationPath": "NetherlandsWorldwide > Visa for the Caribbean parts of the Kingdom > Requirements for travelling without a visa > Maximum length of stay > opening paragraph; Entry requirements",
           "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa#:~:text=90%20days%20in%20any%20180-day%20period",
           "exactQuote": "90 days in any 180-day period"
+        },
+        {
+          "url": "https://www.curacao.com/en/questions/customs-and-immigration/do-i-need-a-visa-to-visit-curacao",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Curaçao Tourist Board",
+          "exactQuote": "maximum 30 consecutive days",
+          "verificationPath": "Curaçao Tourist Board > Customs and Immigration > Do I need a visa? > first paragraph (30 consecutive days / 90 in 365)"
+        },
+        {
+          "url": "https://www.curacao.com/en/article/what-do-i-need-to-visit-curacao",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Curaçao Tourist Board",
+          "exactQuote": "tourism stays up to 90 days",
+          "verificationPath": "Curaçao Tourist Board > What do I need to visit Curaçao? > updated August2026; Do I need a visa?; passport, DI-card and financial documentation sections"
+        },
+        {
+          "url": "https://dicardcuracao.com/dicard/Home/Faq",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Curaçao official Digital Immigration Card service",
+          "exactQuote": "mandatory form for all visitors",
+          "verificationPath": "Official Digital Immigration Card > FAQ PDF > What is the Digital Immigration Card and who is required to fill it out?; Who is considered a visitor?; transit question on page2"
         }
       ],
       "destinationType": "territory",
-      "lastUpdated": "2026-10-20"
+      "lastUpdated": "2026-10-20",
+      "stayRule": "The authorized stay requires confirmation from Curaçao immigration. The Tourist Board’s visa FAQ gives 30 consecutive days and 90 days in 365, while its August 2026 entry guide describes visa-free stays up to 90 days and NetherlandsWorldwide gives a general 90-days-in-180 limit. The DI-card FAQ gives a separate visitor limit of 90 nights and 180 days per calendar year."
     },
     {
       "country": "SX",
@@ -956,7 +1036,7 @@
       "periodDays": 180,
       "visaOnArrival": false,
       "evisaRequired": false,
-      "additionalRequirements": "Passport issued within ten years and valid throughout the stay; proof of return eligibility, purpose and accommodation; funds (hotel USD 150–200/person/day; family USD 100/person/day or sponsorship); medical coverage at least USD 15,000 including hospital care, emergency care and repatriation. Local authority may admit for a shorter period; work requires a permit.",
+      "additionalRequirements": "Passport issued within ten years and valid throughout the stay; proof of return eligibility, purpose and accommodation; funds (hotel USD 150–200/person/day; family USD 100/person/day or sponsorship); medical coverage at least USD 15,000 including hospital care, emergency care and repatriation. Local authority may admit for a shorter period; work requires a permit. Complete the official Sint Maarten Entry Form (ED card) before arrival for each traveller, including family/group members; the portal also covers travellers transferring through Sint Maarten and visitors continuing to French Saint Martin.",
       "source": {
         "url": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean",
         "governmentDomain": true,
@@ -975,6 +1055,15 @@
           "verificationPath": "NetherlandsWorldwide > Visa for the Caribbean parts of the Kingdom > Requirements for travelling without a visa > Maximum length of stay > opening paragraph; Entry requirements",
           "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa#:~:text=90%20days%20in%20any%20180-day%20period",
           "exactQuote": "90 days in any 180-day period"
+        },
+        {
+          "url": "https://entry.sx/",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Government of Sint Maarten Immigration and Border Protection",
+          "exactQuote": "Each traveler in a group or family are required to complete this form.",
+          "verificationPath": "Official Government of Sint Maarten Immigration and Border Protection > Register a New Sint Maarten Entry Form > introductory paragraph and Article15a notice"
         }
       ],
       "destinationType": "territory",
@@ -990,7 +1079,7 @@
       "periodDays": 180,
       "visaOnArrival": false,
       "evisaRequired": false,
-      "additionalRequirements": "Passport issued within ten years and valid throughout the stay; proof of return eligibility, purpose and accommodation; funds (hotel USD 150–200/person/day; family USD 100/person/day or sponsorship); medical coverage at least USD 15,000 including hospital care, emergency care and repatriation. Local authority may admit for a shorter period; work requires a permit.",
+      "additionalRequirements": "Passport issued within ten years and valid throughout the stay; proof of return eligibility, purpose and accommodation; funds (hotel USD 150–200/person/day; family USD 100/person/day or sponsorship); medical coverage at least USD 15,000 including hospital care, emergency care and repatriation. Local authority may admit for a shorter period; work requires a permit. For Bonaire, the Visitor Entry Tax is normally USD 75; children aged 12 or younger, qualifying island children and residents of the other five former-Antilles islands qualify for USD 10, with proof. Bonaire residents and qualifying students are exempt; cruise passengers have a separate USD 10 levy paid through the cruise line. Arrange the tax QR code before arrival; the published kiosk option permits payment on arrival if online payment fails. These Bonaire tax rules concern Bonaire, while the BQ code also covers Saba and Sint Eustatius.",
       "source": {
         "url": "https://www.netherlandsworldwide.nl/caribbean-visa/visa-needed-caribbean",
         "governmentDomain": true,
@@ -1009,6 +1098,24 @@
           "verificationPath": "NetherlandsWorldwide > Visa for the Caribbean parts of the Kingdom > Requirements for travelling without a visa > Maximum length of stay > opening paragraph; Entry requirements",
           "locationUrl": "https://www.netherlandsworldwide.nl/caribbean-visa/travel-without-visa#:~:text=90%20days%20in%20any%20180-day%20period",
           "exactQuote": "90 days in any 180-day period"
+        },
+        {
+          "url": "https://bonairegov.com/natuur-en-milieu/toeristenbelasting",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Openbaar Lichaam Bonaire",
+          "exactQuote": "Cruisepassagiers betalen $10 per persoon",
+          "verificationPath": "Openbaar Lichaam Bonaire > Toeristenbelasting > Tarieven; Benodigde bewijsstukken; Betaal vooraf online (QR code and Pay at Kiosk option)"
+        },
+        {
+          "url": "https://bonairegov.com/en/products-and-services/nature-and-environment/visitor-entry-tax/conditions-for-an-exceptional-rate-or-exemption",
+          "governmentDomain": true,
+          "accessedDate": "2026-10-20",
+          "confidence": "verified",
+          "authority": "Openbaar Lichaam Bonaire",
+          "exactQuote": "supporting documents must be presented to the agents at the airport or seaport",
+          "verificationPath": "Openbaar Lichaam Bonaire > Visitor Entry Tax > Conditions for an exceptional rate or exemption > opening paragraph and categories1-5"
         }
       ],
       "destinationType": "territory",
@@ -1088,7 +1195,7 @@
       "accessType": "transit_only",
       "stayDeadline": "23:59 on the day after arrival",
       "conditions": "Landside TWOV with a valid I-551 issued on/after 21 April 1998, air arrival/departure and confirmed onward booking outside the UK before the deadline.",
-      "additionalRequirements": "Carry a valid passport or accepted travel document and entry documents for onward destinations. An expired eligible I-551 plus a valid I-797 extension letter is accepted; the carrier guidance also accepts valid I-551 Temporary Immigrant visas. ADIT stamps, transportation/parole letters and sticker-only extensions are excluded under this scheme. The residence-card route does not require travel to/from its issuer; Border Force decides admission.",
+      "additionalRequirements": "Carry a valid passport or accepted travel document and entry documents for onward destinations. An expired I-551 issued after 21 April 1998 is accepted with a valid I-797 extension letter; the carrier guidance also accepts valid I-551 Temporary Immigrant visas and specified sealed-envelope Immigration Forms 155A/155B. ADIT stamps, transportation/parole letters, sticker-only extensions, and US visa foils marked YY, ZZ or Not a visa Foil prepared at DHS request are excluded. The residence-card route permits journeys to or from countries other than the card issuer; Border Force decides admission.",
       "source": {
         "url": "https://www.gov.uk/government/publications/document-checks-and-charges-for-carriers/charging-procedures-a-guide-for-carriers-accessible-version",
         "governmentDomain": true,
